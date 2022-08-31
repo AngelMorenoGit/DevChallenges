@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/AngelMorenoGit/DevChallenges/404-not-found/404_error.PNG)
+![screenshot](https://github.com/AngelMorenoGit/DevChallenges/blob/master/404-not-found-master/404_error.PNG)
 
 
 This is a Challenge from https://devchallenges.io/ 
